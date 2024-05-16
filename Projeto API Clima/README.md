@@ -30,7 +30,7 @@ Para rodar a aplicação, basta simplesmente digitar o nome da cidade que deseja
 
 
 ## Layout do projeto
-<img src ="https://drive.google.com/file/d/1hfMfM6Muh8c0rEglWvA7pz5q84QI377S/view?usp=sharing">
+<img src ="/Projetos API Clima/images/API_clima - 1.png">
 
 
 ## Tecnologias utilizadas
