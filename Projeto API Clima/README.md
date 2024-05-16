@@ -1,8 +1,8 @@
 # Projeto API Metereologia
 <p align="center">
- <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-yellow">
  <img alt="Static Badge" src="https://img.shields.io/badge/Html-red">
  <img alt="Static Badge" src="https://img.shields.io/badge/Css-blue">
+ <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-yellow">
 </p>
 
 > Status do projeto: :heavy_check_mark: Concluído
