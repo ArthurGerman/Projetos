@@ -8,7 +8,7 @@ Resumidamente, o projeto "Terra orbitando Sol" é um projeto estético, sem prop
 Para rodar esse projeto, basta abrir a página Html com o arquivo Css baixado.
 
 ## Layout do projeto
-<img src="">
+<img src="https://github.com/ArthurGerman/Projetos/blob/e182be31b61722b9e0169ed2f02e8a1cca255147/Projeto%20Terra%20orbitando%20Sol/images/Terra%20orbitando%20Sol.png">
 
 ## Tecnologias utilizadas
 <p>
