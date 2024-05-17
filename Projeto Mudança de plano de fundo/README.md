@@ -14,8 +14,11 @@ Basicamente, o projeto "Mudança de plano de fundo" tem por objetivo, criar uma 
 Para rodar o projeto, basta abrir a página Html. No canto superior esquerdo da página existe um botão que é responsável por fazer a mudança de planode fundo. Tocando nele, o tema será alterado.
 
 ## Layout do projeto
+Tema claro
 <img src="https://github.com/ArthurGerman/Projetos/blob/7a19924a3ecbb0867bdd9db32c560dda7cc80037/Projeto%20Mudan%C3%A7a%20de%20plano%20de%20fundo/images/Mudan%C3%A7a%20de%20plano%20de%20fundo%20-%201.png">
-<img src="">
+
+Tema escuro
+<img src="https://github.com/ArthurGerman/Projetos/blob/ea1c53aa1292f743bf7e6ebfcffff5ba8574f677/Projeto%20Mudan%C3%A7a%20de%20plano%20de%20fundo/images/Mudan%C3%A7a%20de%20plano%20de%20fundo%20-%202.png">
 
 ## Tecnologias utilizadas
 * Html
